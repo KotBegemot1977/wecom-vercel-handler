@@ -1,7 +1,6 @@
 {
   "name": "wecom-vercel-handler",
   "version": "1.0.0",
-  "main": "api/index.js",
   "type": "module",
   "license": "MIT"
 }
